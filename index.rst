@@ -23,12 +23,6 @@ Welcome to vision.network!
       https://github.com/voken100g
 
 
-   |logo_twitter|
-
-   Twitter
-      https://twitter.com/voken100g
-
-
    |logo_telegram|
 
    Telegram Group
@@ -110,6 +104,7 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Available services
 
+   services/vision_connect
    reports/vnvpn_alpha
    services/autossr
    guide/shadowrocket
